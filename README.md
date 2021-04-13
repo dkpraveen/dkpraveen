@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating new inventions.
 - 🌱 I’m currently learning robotics and automation engineering.
 - 💞️ I’m looking to collaborate on irobot, grey Orange, Epson robots, rethink robots, intel, dji, apple, microsoft. 
-- 📫 How to reach me ...
+- 📫 How to reach me ... dkpraveen111102@gmail.com 
 
 <!---
 Praveen D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
