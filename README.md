@@ -1,10 +1,35 @@
-- 👋 Hi, I’m @praveen d
-- 👀 I’m interested in creating new inventions.
-- 🌱 I’m currently learning robotics and automation engineering.
-- 💞️ I’m looking to collaborate on irobot, grey Orange, Epson robots, rethink robots, intel, dji, apple, microsoft. 
-- 📫 How to reach me ... dkpraveen111102@gmail.com 
+👋 Hi, I’m Praveen Dhayalan
 
-<!---
-Praveen D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Robotics & Automation enthusiast with experience as a Process Engineer and a passion for Python Full Stack Development. I enjoy building solutions that combine engineering, automation, and programming.
+
+🌱 Currently Learning
+
+Python Full Stack Development (Django, HTML, CSS, JavaScript)
+
+Advanced Robotics & Automation Systems
+
+💡 Interests & Collaboration
+
+Robotics & Automation projects
+
+IoT and process optimization
+
+Web development and automation solutions
+
+I’m open to collaborating on innovative projects with companies or individuals in robotics, IoT, and automation.
+
+💻 Skills
+
+Programming & Web: Python, Django, HTML, CSS, JavaScript
+
+Robotics & Automation: IR sensors, timer relays, process optimization, NPI projects
+
+Tools & Platforms: Git, GitHub, data analysis, troubleshooting
+
+📫 Contact Me
+
+Email: praveenrae11@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/praveen-d-3279a120b/
+
+Location: Pondicherry, India
